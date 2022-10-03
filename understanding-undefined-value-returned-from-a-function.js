@@ -14,3 +14,12 @@ function addFive() {
 
 addThree();
 addFive();
+
+//codewars boolToWorld 
+function boolToWord( bool ){
+  if (bool) {
+    return 'Yes';
+  }else {
+    return 'No';
+  }
+} 
