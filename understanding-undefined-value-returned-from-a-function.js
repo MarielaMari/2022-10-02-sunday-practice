@@ -23,3 +23,8 @@ function boolToWord( bool ){
     return 'No';
   }
 } 
+
+//codewars array reverse() meerkat at the Zoo
+function fixTheMeerkat(arr) {
+  return arr.reverse();
+}
